@@ -1,0 +1,63 @@
+body
+{
+   background: url(../../img/foundation/background.jpg) fixed;
+   
+
+}
+nav
+{
+    background: rgb(126,138,133);
+    opacity: 0.8;
+    
+}
+.slogan
+{
+    color: rgb(203,191,128);
+}
+.btn-bus
+{
+    background: red;
+    color: yellow;
+    opacity: 0.3;
+}
+.texto
+{
+    height: 41px;
+}
+.menu-1
+{
+    background: wheat;
+    opacity: 0.8;
+    min-height: 20rem;
+}
+.texto2
+{
+    text-align: center;
+    color: brown;
+    opacity: 0.3;
+}
+.menu2
+{
+    margin-right: 2px;
+}
+.menu3
+{
+   background: wheat;
+   opacity: 0.8; 
+}
+.texto3
+{
+    font-family: italic;
+}
+.texta
+{
+    width: 50%;
+}
+.imgavatar
+{
+    width: 10%;
+}
+.textom
+{
+    list-style: none;
+}
